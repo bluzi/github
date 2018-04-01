@@ -1,5 +1,5 @@
 {
-  "name": "github-api",
+  "name": "@bluzi/github-api",
   "version": "3.1.0",
   "license": "BSD-3-Clause-Clear",
   "description": "A higher-level wrapper around the Github API.",
